@@ -1,0 +1,15 @@
+{
+  "name": "data-structure-weapons",
+  "version": "1.0.0",
+  "description": "Sample about data strucure and algorithms",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabiodeveloper.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
