@@ -1,6 +1,6 @@
-import bynary_search from "./bynary_search/typescript/bynary_search";
-import selectionSort from "./sort_algortims/typescript/selection_sort";
-import bubbleSort from "./sort_algortims/typescript/bubble_sort";
+import bynary_search from "./src/bynary_search/typescript/bynary_search";
+import selectionSort from "./src/sort_algortims/typescript/selection_sort";
+import bubbleSort from "./src/sort_algortims/typescript/bubble_sort";
 
 // Bynary Search
 console.log("Bynary Search");
