@@ -5,15 +5,15 @@ Hello :-) This repository contains a collection of data structures implemented i
 ## Table of contents
 
 - **Sort algorithms**
-  - Bubble sort: folder `sort_algorithms/bubble_sort.ts`
-  - Selection sort: folder `sort_algorithms/selection_sort.ts`
+  - Bubble sort: folder `./src/sort_algorithms/bubble_sort.ts`
+  - Selection sort: folder `./src/sort_algorithms/selection_sort.ts`
 
 - **Search algorithms**
-  - Linear search: folder `search_algorithms/recursive_search.ts`
-  - Binary search: folder `search_algorithms/binary_search.ts`
+  - Linear search: folder `./src/search_algorithms/recursive_search.ts`
+  - Binary search: folder `./src/search_algorithms/binary_search.ts`
 
 - **Stack**
-  - Simple stack: folder `stack_algorithms/stack.ts`
+  - Simple stack: folder `./src/stack_algorithms/simple_stack.ts`
 
 ## Why learn about data structures?
 
