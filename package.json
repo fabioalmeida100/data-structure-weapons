@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "tsc && node ./src/index.js",
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "author": "fabiodeveloper.com",
   "license": "ISC",
