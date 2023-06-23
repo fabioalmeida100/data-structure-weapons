@@ -1,4 +1,4 @@
-import bubbleSort from "../../sort_algorithms/typescript/bubble_sort";
+import bubbleSort from "../../sort_algorithms/bubble_sort";
 
 describe("Bubble Sort", () => {
     it("should sort an array of numbers in ascending order", () => {

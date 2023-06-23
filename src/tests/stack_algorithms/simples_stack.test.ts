@@ -1,4 +1,4 @@
-import StackSample from "../../stack_algorithms/typescript/simple_stack";
+import StackSample from "../../stack_algorithms/simple_stack";
 
 describe("Push two number and pop them", () => {
     let stack = new StackSample<number>();

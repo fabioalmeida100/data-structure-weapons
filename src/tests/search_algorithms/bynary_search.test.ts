@@ -1,4 +1,4 @@
-import bynarySearch from "../../search_algorithms/typescript/bynary_search";
+import bynarySearch from "../../search_algorithms/bynary_search";
 
 /*
     Remember: for use bynary search, the array must be sorted!!! Don't forget it!
