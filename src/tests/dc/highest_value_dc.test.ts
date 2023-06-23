@@ -1,4 +1,4 @@
-import highestValue from "../../dc/highest_value";
+import highestValue from "../../dc/highest_value_dc";
 
 describe("Highest value of an array using divide and conquer", () => {
     it("should return 0 for empty array", () => {
