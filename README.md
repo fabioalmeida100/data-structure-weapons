@@ -17,6 +17,19 @@ Hello :-) This repository contains a collection of data structures implemented i
 - **Stack**
   - Simple stack: folder `./src/stack_algorithms/simple_stack.ts`
 
+- **DC - Divide and conquer**
+  - Sum of array elements: folder `./src/dc/sum_dc.ts`
+  - Length of array: folder `./src/dc/length_array_dc.ts`
+  - Maximum value of array: folder `./src/dc/highest_value_dc.ts`
+
+## How to run the tests
+
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm test`
+
+Jest will run all tests in the `./src/tests` folder.
+
 ## Why learn about data structures?
 
 Data structures are a way to organize and store data in a computer so that it can be used efficiently. They are essential to solve problems and to create efficient programs.
