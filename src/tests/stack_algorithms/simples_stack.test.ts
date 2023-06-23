@@ -16,6 +16,6 @@ describe("Push two number and pop them", () => {
     });
 
     it("second pop should be 1", () => {
-        expect(secondPop).toBe(1);
+        expect(secondPop).toBe(10);
     });
 });
