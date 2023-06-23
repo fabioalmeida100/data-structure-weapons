@@ -1,4 +1,4 @@
-import selectionSort from "../../sort_algorithms/typescript/selection_sort";
+import selectionSort from "../../sort_algorithms/selection_sort";
 
 describe("Selection Sort", () => {
     it("should sort an array of numbers in ascending order", () => {

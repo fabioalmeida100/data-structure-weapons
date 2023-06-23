@@ -1,4 +1,4 @@
-import recursiveSearch from "../../search_algorithms/typescript/recursive_search";
+import recursiveSearch from "../../search_algorithms/recursive_search";
 
 describe("Recursive Search", () => {
     it("should find the index of an element in an array of numbers", () => {
