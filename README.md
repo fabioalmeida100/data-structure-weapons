@@ -1,5 +1,7 @@
 # Data structure weapons
 
+[![Run tests](https://github.com/fabioalmeida100/data-structure-weapons/actions/workflows/main.yml/badge.svg)](https://github.com/fabioalmeida100/data-structure-weapons/actions/workflows/main.yml)
+
 Hello :-) This repository contains a collection of data structures implemented initialy in TypeScript. The goal is to provide a reference for people who want to learn about data structures.
 
 ## Table of contents
