@@ -4,7 +4,7 @@
     Recursive case: return 1 + length of array without first element
 */
 
-export function lengthArrayDC(arr: number[]): number {
+export default function lengthArrayDC(arr: number[]): number {
  
     if (arr.length === 0) {
         return 0
