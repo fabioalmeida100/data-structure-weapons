@@ -1,4 +1,4 @@
-export default function bynary_search(listItens: number[], item: number): number {
+export default function bynarySearch(listItens: number[], item: number): number {
     let low = 0;
     let high = listItens.length - 1;
     let mid = 0;

@@ -1,4 +1,4 @@
-import bynary_search from "./search_algorithms/typescript/bynary_search";
+import bynarySearch from "./search_algorithms/typescript/bynary_search";
 import recursiveSearch from "./search_algorithms/typescript/recursive_search";
 import selectionSort from "./sort_algorithms/typescript/selection_sort";
 import bubbleSort from "./sort_algorithms/typescript/bubble_sort";
@@ -6,7 +6,7 @@ import StackSample from "./stack_algorithms/typescript/simple_stack";
 
 // Bynary Search
 console.log("Bynary Search");
-console.log(bynary_search([1, 2, 3, 4, 5], 2));
+console.log(bynarySearch([1, 2, 3, 4, 5], 2));
 console.log("--------------------");
 
 // Recursive Search
